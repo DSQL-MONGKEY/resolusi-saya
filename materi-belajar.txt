@@ -12,9 +12,14 @@
   *JSON
   *DOM
   *React
+  *Vue
 
 - Dart
   *Dasar
   *OOP
   *Flutter
   
+- Phyton
+ *Dasar
+ *OOP
+ *Django
