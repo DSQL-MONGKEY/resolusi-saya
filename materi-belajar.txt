@@ -11,6 +11,7 @@
   *OOP
   *JSON
   *DOM
+  *React
   *Vue
 
 - Dart
@@ -22,3 +23,9 @@
  *Dasar
  *OOP
  *Spring Framework
+
+- Phyton
+ *Dasar
+ *OOP
+ *Django
+
