@@ -11,10 +11,14 @@
   *OOP
   *JSON
   *DOM
-  *React
+  *Vue
 
 - Dart
   *Dasar
   *OOP
   *Flutter
   
+- Java
+ *Dasar
+ *OOP
+ *Spring Framework
