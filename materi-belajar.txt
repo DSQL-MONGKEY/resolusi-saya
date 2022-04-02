@@ -19,7 +19,13 @@
   *OOP
   *Flutter
   
+- Java
+ *Dasar
+ *OOP
+ *Spring Framework
+
 - Phyton
  *Dasar
  *OOP
  *Django
+
