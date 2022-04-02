@@ -1,0 +1,20 @@
+-- TARGET MATERI BELAJAR --
+
+- PHP
+  *Dasar
+  *OOP
+  *MVC
+  *Mysql
+
+- Javascript
+  *Dasar
+  *OOP
+  *JSON
+  *DOM
+  *React
+
+- Dart
+  *Dasar
+  *OOP
+  *Flutter
+  
