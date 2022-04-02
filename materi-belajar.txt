@@ -5,6 +5,7 @@
   *OOP
   *MVC
   *Mysql
+  *Laravel
 
 - Javascript
   *Dasar
@@ -28,4 +29,3 @@
  *Dasar
  *OOP
  *Django
-
